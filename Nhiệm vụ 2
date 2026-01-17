@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>....</title>
+    </head>
+    <body>
+        <ul>
+            <Li>Họ tên; Nguyễn Minh Châu</li>
+            <li>Ngày sinh:19/11/2008</li>
+            <li>Đối nét về bản thân:</li>
+        </ul>
+        <p>Là người hoà đồng, học giỏi, được các bạn trong lớp quý mến.</p>
+    </body>
+</html>
